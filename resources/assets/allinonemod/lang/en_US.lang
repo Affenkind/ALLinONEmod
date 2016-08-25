@@ -1,0 +1,57 @@
+//Items
+item.ruby.name=Ruby
+item.sapphire.name=Sapphire
+item.chocolate.name=Chocolate
+item.cup.name=Cup
+item.cup_of_chocolate.name=Cup of Chocolate
+item.hot_chocolate.name=Hot Chocolate
+
+//Blocks
+tile.marble.name=Marble
+tile.marble_brick.name=Marble Brick
+tile.bone_block.name=Bone Block
+tile.limestone.name=Limestone
+tile.limestone_brick.name=Limestone Brick
+tile.limestone_cobble.name=Limestone Cobble
+tile.magma.name=Magma
+tile.migmatite.name=Migmatite
+tile.migmatite_brick.name=Migmatite Brick
+tile.migmatite_cobble.name=Migmatite Cobble
+tile.nether_wartz_block.name=Nether Wart Block
+tile.ruby_ore.name=Ruby Ore
+tile.sapphire_ore.name=Sapphire Ore
+tile.compressed_cobblestone.name=Compressed Cobblestone
+tile.double_compressed_cobblestone.name=Double Compressed Cobblestone
+tile.triplecompressed_cobblestone.name=Triple Compressed Cobblestone
+tile.quadruple_compressed_cobblestone.name=Quadruple Compressed Cobblestone
+tile.quintuple_compressed_cobblestone.name=Quintuple Compressed Cobblestone
+tile.sextuble_compressed_cobblestone.name=Sextuple Compressed Cobblestone
+tile.septuple_compressed_cobblestone.name=Septuple Compressed Cobblestone
+tile.octuple_compressed_cobblestone.name=Octuple Compressed Cobblestone
+tile.compressed_dirt.name=Compressed Dirt
+tile.double_compressed_dirt.name=Double Compressed Dirt
+tile.triplecompressed_dirt.name=Triple Compressed Dirt
+tile.quadruple_compressed_dirt.name=Quadruple Compressed Dirt
+tile.quintuple_compressed_dirt.name=Quintuple Compressed Dirt
+tile.sextuble_compressed_dirt.name=Sextuple Compressed Dirt
+tile.septuple_compressed_dirt.name=Septuple Compressed Dirt
+tile.octuple_compressed_dirt.name=Octuple Compressed Dirt
+tile.compressed_sand.name=Compressed Sand
+tile.double_compressed_sand.name=Double Compressed Sand
+tile.triplecompressed_sand.name=Triple Compressed Sand
+tile.quadruple_compressed_sand.name=Quadruple Compressed Sand
+tile.quintuple_compressed_sand.name=Quintuple Compressed Sand
+tile.sextuble_compressed_sand.name=Sextuple Compressed Sand
+tile.septuple_compressed_sand.name=Septuple Compressed Sand
+tile.octuple_compressed_sand.name=Octuple Compressed Sand
+tile.compressed_gravel.name=Compressed Gravel
+tile.double_compressed_gravel.name=Double Compressed Gravel
+tile.triplecompressed_gravel.name=Triple Compressed Gravel
+tile.quadruple_compressed_gravel.name=Quadruple Compressed Gravel
+tile.quintuple_compressed_gravel.name=Quintuple Compressed Gravel
+tile.sextuble_compressed_gravel.name=Sextuple Compressed Gravel
+tile.septuple_compressed_gravel.name=Septuple Compressed Gravel
+tile.octuple_compressed_gravel.name=Octuple Compressed Gravel
+
+//Other
+itemGroup.aotab=§6ALLinONEmod

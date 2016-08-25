@@ -1,0 +1,16 @@
+[
+{
+  "modid": "allinonemod",
+  "name": "§6ALLinONEmod",
+  "description": "§3This mod contains several mods in one.",
+  "version": "§31.0",
+  "mcversion": "§31.8",
+  "url": "http://www.shooxerz.net/",
+  "updateUrl": "",
+  "authorList": ["§6Kai Leon Deines", "His PC"],
+  "credits": "§6(c) Kai Leon Deines",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
