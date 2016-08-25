@@ -1,14 +1,14 @@
 [
 {
   "modid": "allinonemod",
-  "name": "ง6ALLinONEmod",
-  "description": "ง3This mod contains several mods in one.",
-  "version": "ง31.0",
-  "mcversion": "ง31.8",
+  "name": "ยง6ALLinONEmod",
+  "description": "ยง3This mod contains several mods in one.",
+  "version": "ยง31.0",
+  "mcversion": "ยง31.8",
   "url": "http://www.shooxerz.net/",
   "updateUrl": "",
-  "authorList": ["ง6Kai Leon Deines", "His PC"],
-  "credits": "ง6(c) Kai Leon Deines",
+  "authorList": ["ยง6NaxotronDE", "His PC"],
+  "credits": "ยง6NaxotronDE",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
